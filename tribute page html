@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tributepage</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div id="heading">
+        <h1><u>A. P. J. Abdul Kalam
+        </u></h1>
+    </div>
+        <section id="top">
+            <div>
+                <img src="kalamsir.jpg" height="400px" width="400px">
+            </div>
+        </section>
+
+        <section class="biography_section">
+            <br>
+            <br>
+            <h3>About The Legend</h3>
+            <ul>
+                <li>
+                    A.P.J. Abdul Kalam served as the 11th President of India from 2002 to 2007.
+                </li>
+                <li>
+                    Kalam earned a degree in aeronautical engineering from the Madras Institute of Technology and in
+                    1958 joined the Defence Research and Development Organisation (DRDO).
+                </li>
+                <li>
+                    In 1969, he moved to the Indian Space Research Organisation, where he was project director of
+                    the SLV-III, the first satellite launch vehicle that was both designed and produced in India.
+                </li>
+                <li>
+                    Rejoining DRDO in 1982, Kalam planned the program that produced a number of successful missiles,
+                    which helped earn him the nickname <strong> “Missile Man.”</strong>
+                </li>
+                <li>
+                    Among those successes was Agni, India's first intermediate-range ballistic missile, which
+                    incorporated aspects of the SLV-III and was launched in 1989.
+                </li>
+                <li>
+                    Kalam received <b>7</b> honorary doctorates from <b>40</b> universities. The Government of India
+                    honoured him with the <b>Padma Bhushan in 1981</b> and the <b>Padma Vibhushan in 1990</b> for
+                    his work with ISRO and DRDO and his role as a scientific advisor to the Government.
+                </li>
+                <li> In 1997, Kalam received India's highest civilian honour, the Bharat Ratna, for his contribution
+                    to the scientific research and modernisation of defence technology in India. In 2013, he was the
+                    recipient of the Von Braun Award from the National Space Society "to recognize excellence in the
+                    management and leadership of a space-related project".
+                </li>
+                <li>
+                    A prominent road in New Delhi was renamed from Aurangzeb Road to <b>Dr APJ Abdul Kalam Road</b>
+                    in August 2015.
+                </li>
+                <li>
+                    In February 2018, scientists from the Botanical Survey of India named a newly found plant
+                    species as Drypetes kalamii, in his honour.
+                </li>
+
+
+    </div>
+    </section>
+    <footer>
+        <p>
+            Read more about A. P. J. Abdul Kalam on
+            <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam">Wikipedia.</a>
+            <br>
+            Tribute Page by Somil Singh.
+        </p>
+    </footer>
+</div>
+</div>
+
+
+</body>
+</html>
