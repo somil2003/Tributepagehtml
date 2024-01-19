@@ -1,0 +1,52 @@
+#top{
+
+    display:flex;
+    flex-direction:column;
+    background-color: blanchedalmond;
+    width:400px;
+    margin-left:35%;
+    margin-top:10%;
+}
+#top image{
+    align-content: center;
+}
+
+#heading h1{
+      color: crimson;
+      margin-left:38%;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+      font-weight: bolder;
+      font-size: xx-large;
+      margin-top: 10px;
+}
+body{
+    background-color: rgb(243, 214, 180);
+}
+.biography_section {
+    margin: 50p;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .biography_section h3 {
+    margin-bottom: 20px;
+    color: blue;
+  }
+  .biography_section ul {
+    margin-left: 50px;
+  }
+  .biography_section li {
+    margin-bottom: 15px;
+    color: maroon;
+  }
+  a{
+    color: rgb(3, 32, 255);
+  }
+  
+  footer {
+    margin: 50px 0;
+    margin-right: 20px;
+    color: darkgreen;
+  }
+  footer p {
+    text-align: center;
+  }
